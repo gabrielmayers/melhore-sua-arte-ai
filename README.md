@@ -1,5 +1,5 @@
 # Melhore sua arte:
-Projeto de IA para melhora de imagens - Hackathon CCR 2021
+Projeto de IA para melhorar imagens - Hackathon CCR 2021
 
 ## O que é?
 
