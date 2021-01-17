@@ -15,3 +15,4 @@ Para treinar o modelo, criamos um novo dataset com imagens em má definição a 
 
 Após o treinamento do modelo, utilizamos a rede neural para corrigir imagens com má definição que criamos anteriormente. Os resultados podem ser visualizados abaixo:
 
+![resultados: ](https://github.com/gabrielmayers/melhore-sua-arte-ai/blob/main/resultados.png)
